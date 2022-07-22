@@ -1,0 +1,3 @@
+﻿namespace AppQL_NhanSu
+{
+}
